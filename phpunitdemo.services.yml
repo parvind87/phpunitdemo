@@ -1,0 +1,3 @@
+services:
+    phpunitdemo.calc_fibo:
+        class: Drupal\phpunitdemo\FibonacciService

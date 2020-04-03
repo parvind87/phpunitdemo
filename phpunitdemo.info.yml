@@ -1,0 +1,4 @@
+name: PHPUnitTest Demo
+description: PHPUnitTest Demo.
+type: module
+core: 8.x
